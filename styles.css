@@ -1,0 +1,21 @@
+h1{
+color:rgb(176, 255, 251);
+font-family: 'Borel', cursive;
+
+}
+body{
+
+    background-color: rgb(28, 44, 160);
+}
+button{
+    color:white;
+    background-color:aquamarine;
+    padding: 50px;
+    font-size:200px;
+    font-family: 'Borel', cursive;
+ border-radius: 200px;
+}
+img{
+
+    border-radius: 50px;
+}
